@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # RETO ENTORNOS DE DESARROLLO
-![Imagen de Portada](UAX.jpg)
+![Imagen de Portada](reto2/capt1.jpg)
 ## Descripción
 Breve descripción del proyecto, objetivos y funcionalidades principales.
 ## Características
