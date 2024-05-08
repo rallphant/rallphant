@@ -17,13 +17,13 @@ creación de ramas, la fusión de las mismas, etc.
 ![capt5](reto2/capt5.jpg)
 
 ## 5.Creación de una nueva clase en el proyecto. Documentación de la actualización.
-## Commit y Push Origin para actualizar el repositioro remoto.
+## Commit y Push Origin para actualizar el repositiorio remoto.
 ![capt6](reto2/capt6.jpg)
 ![capt7](reto2/capt7.jpg)
 ![capt8](reto2/capt8.jpg)
 
 ## 6.Modificación de una clase del proyecto. Documentación de la actualización.
-## Commit y Push Origin para actualizar el repositioro remoto.
+## Commit y Push Origin para actualizar el repositiorio remoto.
 ![capt9](reto2/capt9.jpg)
 ## 7.Comprobación de los cambios
 ![capt10](reto2/capt10.jpg)
