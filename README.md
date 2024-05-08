@@ -1,7 +1,7 @@
 
-# **RETO ENTORNOS DE DESARROLLO**
+# RETO ENTORNOS DE DESARROLLO
 ![Imagen de Portada](UAX.jpg)
-## Descripción del proyecto
+**Descripción del proyecto**
 Demostrar conocimientos de GitHub y GitGub desktop. Realización de tareas como
 creación y actualización de repositorios, Pull Requests, Push Origins, Commits,
 creación de ramas, la fusión de las mismas, etc.
